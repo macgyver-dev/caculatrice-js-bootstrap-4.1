@@ -25,7 +25,6 @@ Fonction ADD (operante)
     Ecrire +
 FIN
 
-
 Fonction SOUSTRACT (operante)
     Action "Activer touche /"
     Action "Activer touche *"
@@ -33,7 +32,6 @@ Fonction SOUSTRACT (operante)
     Action "Desactiver touche -"
     Ecrire -
 FIN
-
 
 Fonction Multiply(operante)
     Action "Activer touche /"
@@ -43,14 +41,12 @@ Fonction Multiply(operante)
     Ecrire *
 FIN
 
-
 Fonction Division(operante)
     Action "Activer touche *"
     Action "Activer touche -"
     Action "Activer touche +"
     Ecrire /
 FIN
-
 
 Fonction Dot (click)
     Si  != "/" et Click != "*" et et Click != "-" et Click != "-"
@@ -59,7 +55,6 @@ Fonction Dot (click)
         Ecrire "0."
     FinSon
 Fin
-
 
 Fonction Opérante (click, mémoire, ecran)
     Si click = CE Alors
@@ -92,7 +87,6 @@ Fonction Opérante (click, mémoire, ecran)
     FinSinon
 FIN Opérante
 
-
     ecran = 0;
     memoire = 0;
     
@@ -106,4 +100,4 @@ FIN Opérante
     FinSin  
 
 
-Fin'
+Fin`
