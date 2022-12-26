@@ -14,8 +14,7 @@ Cas 2   False   true    faux    faux
 Cas 3   faux    faux    true    faux
 Cas 4   false   false   false   true
 
-`
-Début
+`Début
 
 
 Fonction ADD (operante)
@@ -107,5 +106,4 @@ FIN Opérante
     FinSin  
 
 
-Fin
-'
+Fin'
