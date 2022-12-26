@@ -10,8 +10,8 @@ Portfolio de julien dubromez pour démontrer ma maitrise de JS.
 Table de vériter 
 
 
-Table de vériter 
-|   | +  | -  | /  | *  |
+|Table de vériter 
+   | +  | -  | /  | *  |
 |---|---|---|---|---|
 Cas 1  | True  | False |  False |  False
 Cas 2  | False | true  |  faux  |  faux
